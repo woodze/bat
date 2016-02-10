@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-color: gray;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+
+}
+
+h2{
+    color: black;
+    background-color: yellow;  
+    display: inline-block;
+    padding: .75%;
+    text-align: center;
+    border: 2px solid black;
+    
+}
+
+img{ border: 5px solid black; 
+}
+
+.contact{ 
+    list-style-type: none;
+    text-align:center;
+}
+
